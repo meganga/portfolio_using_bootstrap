@@ -1,59 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio using bootstrap</title>
     <!--  Bootstrap 4 -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <!-- CSS custom -->
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
 
-<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" 
-    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"> -->
-<!-- CSS custom -->
-<link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
+  <body>
     <!-- <header> -->
-        <nav class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container-fluid">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li class="dropdown"> 
-                        <a class="dropdown-toogle" data-toggle="dropdown" href="#">
-                            Projects
-                            <span class="caret"></span>
-                        </a> 
-                        <ul class="dropdown-menu">
-                            <li>
-                                <a href="#">
-                                    Project#1
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    Project#2
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    Project#3
-                                </a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li> <a href="#">Contact me</a> </li>
-                </ul>
-            </div>
-        </nav>
+    <nav
+      class="navbar navbar-expand-xl bg-dark navbar-dark justify-content-center fixed-top"
+    >
+      <ul class="navbar-nav">
+        <a href="#" class="navbar-brand">
+          <img src="img/6-IMG_4423.JPG" alt="a picture of me" />
+        </a>
+        <li class="nav-item active">
+          <a class="nav-link" href="#"> Home </a>
+        </li>
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            id="navbardrop"
+            data-toggle="dropdown"
+          >
+            Projects
+          </a>
+
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#"> Project#1 </a>
+            <a class="dropdown-item" href="#"> Project#2 </a>
+            <a class="dropdown-item" href="#"> Project#3 </a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#"> Contact me </a>
+        </li>
+      </ul>
+    </nav>
     <!-- </header> -->
-
-
-
-
 
     <!-- Bootstrap JS, Popper.js, and jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
+  </body>
 </html>
