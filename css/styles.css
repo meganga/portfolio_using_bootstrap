@@ -13,11 +13,22 @@ body {
 [class*="col-"] {
   border-top-left-radius: 30px;
   border-bottom-right-radius: 30px;
-  background-color: rgb(214, 212, 212);
-  /* margin: 4em;
-  padding: 4em; */
+  background-color: rgb(209, 213, 216);
+  /* flex: 0 0 31%; */
 }
 
-[class*="col-"] > figcaption {
+[class*="col-"] img {
+  width: 100%;
+  max-height: 500px;
+}
+
+[class*="col-"] figcaption {
   font-size: 13px;
+}
+
+[class*="col-"] p {
+  font-weight: 600;
+  margin-top: 3em;
+  color: rgb(0, 0, 0);
+  text-shadow: 1px 1px 1px white;
 }
