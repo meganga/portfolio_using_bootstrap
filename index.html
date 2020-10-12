@@ -14,39 +14,115 @@
   </head>
 
   <body>
-    <!-- <header> -->
-    <nav
-      class="navbar navbar-expand-xl bg-dark navbar-dark justify-content-center fixed-top"
-    >
-      <ul class="navbar-nav">
-        <a href="#" class="navbar-brand">
-          <img src="img/6-IMG_4423.JPG" alt="a picture of me" />
-        </a>
-        <li class="nav-item active">
-          <a class="nav-link" href="#"> Home </a>
-        </li>
-        <li class="nav-item dropdown">
-          <a
-            class="nav-link dropdown-toggle"
-            href="#"
-            id="navbardrop"
-            data-toggle="dropdown"
-          >
-            Projects
-          </a>
+    <nav class="navbar navbar-expand-xl bg-dark navbar-dark sticky-top">
+      <a href="#" class="navbar-brand">
+        <img src="img/6-IMG_4423.JPG" alt="a picture of me" />
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#target"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-          <div class="dropdown-menu">
-            <a class="dropdown-item" href="#"> Project#1 </a>
-            <a class="dropdown-item" href="#"> Project#2 </a>
-            <a class="dropdown-item" href="#"> Project#3 </a>
-          </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#"> Contact me </a>
-        </li>
-      </ul>
+      <div class="collapse navbar-collapse justify-content-center" id="target">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="#"> Home </a>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbardrop"
+              data-toggle="dropdown"
+            >
+              Projects
+            </a>
+
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#"> Project#1 </a>
+              <a class="dropdown-item" href="#"> Project#2 </a>
+              <a class="dropdown-item" href="#"> Project#3 </a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#"> Contact me </a>
+          </li>
+        </ul>
+      </div>
     </nav>
-    <!-- </header> -->
+
+    <!-- <div class="container"> -->
+    <section class="jumbotron text-center">
+      <h1>Hi!</h1>
+      <h1>I am Ganga Singh.</h1>
+
+      <p>And I am learning how to use Bootstrap-4 through this website.</p>
+      <p>
+        Apart from that, this website could also act as an show-off of my skills
+        to the potential employeers out there :)
+      </p>
+    </section>
+    <section class="row">
+      <article class="m-4 p-3 col-lg-3.9 text-center">
+        <h2>Education</h2>
+        <h4 class="text-success">University of Saskatchewan</h4>
+        <figure>
+          <img
+            src="img/university_of_saskatchewan_400px.jpg"
+            alt="University of Saskatchewan"
+          />
+        </figure>
+        <figcaption>
+          Credit:
+          <a
+            href="https://tce-live2.s3.amazonaws.com/media/media/df2422f2-ae37-4ccf-a30f-a76517695c02.jpg"
+            target="_blank"
+            >Picture of University of Saskatchewan</a
+          >
+        </figcaption>
+      </article>
+      <article class="m-4 p-3 col-lg-3.9 text-center">
+        <h2>Hobbies</h2>
+        <h4 class="text-success">University of Saskatchewan</h4>
+        <figure>
+          <img
+            src="img/university_of_saskatchewan_400px.jpg"
+            alt="University of Saskatchewan"
+          />
+        </figure>
+        <figcaption>
+          Credit:
+          <a
+            href="https://tce-live2.s3.amazonaws.com/media/media/df2422f2-ae37-4ccf-a30f-a76517695c02.jpg"
+            target="_blank"
+            >Picture of University of Saskatchewan</a
+          >
+        </figcaption>
+      </article>
+      <article class="m-4 p-3 col-lg-3.9 text-center">
+        <h2>Vision</h2>
+        <h4 class="text-success">University of Saskatchewan</h4>
+        <figure>
+          <img
+            src="img/university_of_saskatchewan_400px.jpg"
+            alt="University of Saskatchewan"
+          />
+        </figure>
+        <figcaption>
+          Credit:
+          <a
+            href="https://tce-live2.s3.amazonaws.com/media/media/df2422f2-ae37-4ccf-a30f-a76517695c02.jpg"
+            target="_blank"
+            >Picture of University of Saskatchewan</a
+          >
+        </figcaption>
+      </article>
+    </section>
+    <!-- </div> -->
 
     <!-- Bootstrap JS, Popper.js, and jQuery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
