@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio using bootstrap</title>
+    <!--  Bootstrap 4 -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+    <!-- CSS custom -->
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+
+  <body>
+    <nav class="navbar navbar-expand-xl bg-dark navbar-dark sticky-top">
+      <a href="#" class="navbar-brand">
+        <img src="img/6-IMG_4423.JPG" alt="a picture of me" />
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#target"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-center" id="target">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="#"> Home </a>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbardrop"
+              data-toggle="dropdown"
+            >
+              Projects
+            </a>
+
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#"> Project#1 </a>
+              <a class="dropdown-item" href="#"> Project#2 </a>
+              <a class="dropdown-item" href="#"> Project#3 </a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#"> Contact me </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <!-- <div class="container"> -->
+    <header class="jumbotron text-center">
+      <h1>Hi!</h1>
+      <h1>I am Ganga Singh.</h1>
+
+      <p>I am learning how to use Bootstrap-4 through this website.</p>
+      <p>
+        Apart from that, this website could also to show-off of my skills to the
+        potential employeers out there :)
+      </p>
+    </header>
+    <section class="row">
+      <article class="mx-1 my-5 p-3 col-md-4 text-center border w-75">
+        <h2>Education</h2>
+        <h4 class="text-success">University of Saskatchewan</h4>
+        <figure>
+          <img
+            src="img/university_of_saskatchewan_400px.jpg"
+            alt="University of Saskatchewan"
+          />
+        </figure>
+        <figcaption>
+          Picture credit:
+          <a
+            href="https://tce-live2.s3.amazonaws.com/media/media/df2422f2-ae37-4ccf-a30f-a76517695c02.jpg"
+            target="_blank"
+            >Picture of University of Saskatchewan</a
+          >
+        </figcaption>
+        <p>
+          I am currently pursing 4-year bachelor degree in Computer Science.
+          With the expected completion date of September 2023.
+        </p>
+      </article>
+      <article class="mx-1 my-5 p-3 col-md-3 text-center border w-75">
+        <h2>Hobbies</h2>
+        <h4 class="text-primary">*{ <br />Listening to music<br />}</h4>
+        <figure>
+          <img
+            src="img/listening to music.gif"
+            alt="University of Saskatchewan"
+          />
+        </figure>
+        <figcaption>
+          Picture credit:
+          <a
+            href="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49632479-6972-491e-b29a-2a635ece1ffe/d8hv55o-e3677473-2d53-49f6-aaa9-8bc228d45cc2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi80OTYzMjQ3OS02OTcyLTQ5MWUtYjI5YS0yYTYzNWVjZTFmZmUvZDhodjU1by1lMzY3NzQ3My0yZDUzLTQ5ZjYtYWFhOS04YmMyMjhkNDVjYzIuZ2lmIn1dXX0.kK-qSA66vONFsg3s9At8ZOok7sVTDlF1U8wHbnYkywg"
+            target="_blank"
+            >Pikachu listening to music</a
+          >
+        </figcaption>
+        <p>
+          I LOVE to listen to music. I can listen music with everything and
+          anything I do.<br />
+          My music playlist mainly being Punjabi songs I also like to listen
+          soft-rock, and pop.
+        </p>
+      </article>
+      <article class="mx-1 my-5 p-3 col-md-4 text-center border w-75">
+        <h2>Vision</h2>
+        <h4 class="text-info">web/app_developer</h4>
+        <figure>
+          <img
+            src="img/developer-coding-300px.png"
+            alt="University of Saskatchewan"
+          />
+        </figure>
+        <figcaption>
+          Picture credit:
+          <a
+            href="https://www.geektrust.in/blog/wp-content/uploads/2017/04/Developer-coding.png"
+            target="_blank"
+            >coding</a
+          >
+        </figcaption>
+        <p>
+          Right now I am preparing myself to be a Web developer. And once I have
+          enough knowledge of front-end development I would like start learning
+          android app development.<br />
+          After that I would like to make a slight shift towards cloud computing
+          and machine learning.<br />THERE IS SO MUCH TO LEARN!
+        </p>
+      </article>
+    </section>
+    <!-- </div> -->
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>
