@@ -30,7 +30,9 @@ The project is created with:
  - **Stackedit**:
 	 - To write and maintain  README.md file.
 		 - https://stackedit.io.
-- **W3schools**/:
+- **References**: 
+	- W3 Schools
+	- getbootstrap: https://getbootstrap.com
 	- 
 
 ## Launch
@@ -62,5 +64,5 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY2Mzk5ODJdfQ==
+eyJoaXN0b3J5IjpbLTMyMzM0NTA1M119
 -->
