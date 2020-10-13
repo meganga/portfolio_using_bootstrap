@@ -47,7 +47,9 @@ The project is created with:
 
 
 ### Sources
-This project was given as a homework exercise in the coding boot-camp I attended
+This project was given as a homework exercise in the coding boot-camp I attended:
+https://www.freecodingbootcamp.org/.
+
 
 
 ### Github Pages
@@ -55,5 +57,5 @@ This project was given as a homework exercise in the coding boot-camp I attended
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MDI2MTE3XX0=
+eyJoaXN0b3J5IjpbMjI0NzYxMjkzXX0=
 -->
