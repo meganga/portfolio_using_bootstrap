@@ -32,8 +32,10 @@ The project is created with:
 		 - https://stackedit.io.
 - **References**: 
 	- W3 Schools
-	- getbootstrap: https://getbootstrap.com
-	- 
+	- Getbootstrap: https://getbootstrap.com
+	- Stackoverflow
+	
+*And many other websites were used as reference.*
 
 ## Launch
  
@@ -64,5 +66,5 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzM0NTA1M119
+eyJoaXN0b3J5IjpbMTA2NzE1MTcxNl19
 -->
