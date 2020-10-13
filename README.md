@@ -43,9 +43,9 @@ The project is created with:
 ### Github Pages
 
  - **Access the page here**:
-	 - https://github.com/meganga/portfolio_using_bootstrap
+	 - https://meganga.github.io/portfolio_using_bootstrap/
 - **Spotify's Sign-up form**:
 	- https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3OTI5NTI5XX0=
+eyJoaXN0b3J5IjpbMTU3NzIxNTQ0OF19
 -->
