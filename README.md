@@ -41,16 +41,7 @@ The project is created with:
 ## Launch
  
 #### Desktop:
- - **Edge** 
-	 - IE10+
- - **Firefox** 
-	 - Mar 2014 release and above.
- - **Chrome** 
-	 - Jul 2013 release and above.
-- **Safari**
-	- Sept 2015 release and above.
-- **Opera**
-	- Oct 2013 release and above.
+	
 
 
 ### Sources
@@ -67,6 +58,6 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzAwMTE5MCwxMzc4OTk4NzAzLDEwNj
-cxNTE3MTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1MDM2MDUzLDEzNzg5OTg3MDMsMTA2Nz
+E1MTcxNl19
 -->
