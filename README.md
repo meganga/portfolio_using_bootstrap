@@ -59,7 +59,14 @@ The project is created with:
 	- Supported
 - Firefox
 	- Supported
-	
+- Safari
+	- Supported
+- Android Browser & WebView
+	- Supported
+-Microsoft Edge
+	Supported
+
+Source:
 
 
 
@@ -78,6 +85,6 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEzNDU3MTcsLTIxMjEwOTAxNDEsMj
-A3NjU0ODM0LDEzNzg5OTg3MDMsMTA2NzE1MTcxNl19
+eyJoaXN0b3J5IjpbLTg3NjYwNjQwMCwtMjEyMTA5MDE0MSwyMD
+c2NTQ4MzQsMTM3ODk5ODcwMywxMDY3MTUxNzE2XX0=
 -->
