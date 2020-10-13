@@ -7,9 +7,9 @@ I created this project as a learning practice for Bootstrap.
 
 ## Table of Contents
 
- - Technologies
- - Resources
- - Launch
+ - [Technologies](#technologies-used)
+ - [Resources](#applications/resources-used)
+ - [Launch](#
  - Status
 
 ## Technologies Used:
@@ -51,5 +51,5 @@ The project is created with:
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE2MDA4OTRdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjc1MjAwMDJdfQ==
 -->
