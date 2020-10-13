@@ -10,6 +10,7 @@ I created this project as a learning practice for Bootstrap.
  - [Technologies](#technologies-used)
  - [Resources](#applications/resources-used)
  - [Launch](#launch)
+ - [Sources](#sources)
  - [Status](#github-pages)
 
 ## Technologies Used:
@@ -66,5 +67,5 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzE1MTcxNl19
+eyJoaXN0b3J5IjpbMTM3ODk5ODcwMywxMDY3MTUxNzE2XX0=
 -->
