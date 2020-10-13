@@ -1,10 +1,10 @@
 
 
 
-# Cloning Spotify Sign-Up form.
+#  Creating a Portfolio using Bootstrap.
 
-Learning practice:
-Tried to clone the sign-up form of Spotify(Canadian version) using html and css only.
+I created this bootstrap as a learning practice for Bootstrap.
+
 
 ## Technologies Used:
 The project is created with:
@@ -46,5 +46,5 @@ The project is created with:
 - **Spotify's Sign-up form**:
 	- https://www.spotify.com/ca-en/signup/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxOTE2Mjk4XX0=
+eyJoaXN0b3J5IjpbMTgyMjM4MjE2Ml19
 -->
