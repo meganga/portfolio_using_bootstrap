@@ -43,9 +43,9 @@ The project is created with:
 ### Github Pages
 
  - **Access the page here**:
-	 - https://meganga.github.io/spotify_signup_form_clone/
+	 - https://github.com/meganga/portfolio_using_bootstrap
 - **Spotify's Sign-up form**:
-	- https://www.spotify.com/ca-en/signup/
+	- https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzcwNzM3Ml19
+eyJoaXN0b3J5IjpbMzc3OTI5NTI5XX0=
 -->
