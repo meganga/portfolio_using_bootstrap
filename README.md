@@ -8,6 +8,8 @@ I created this project as a learning practice for Bootstrap.
 ## Table of Contents
 
  - Technologies
+ - Resources
+ - Launch
  - 
 
 ## Technologies Used:
@@ -49,5 +51,5 @@ The project is created with:
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTMyMzMxMl19
+eyJoaXN0b3J5IjpbLTExMDA5MDQyNzJdfQ==
 -->
