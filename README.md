@@ -29,7 +29,9 @@ The project is created with:
 	 - **open in browser**: To open file in a browse more easily.
  - **Stackedit**:
 	 - To write and maintain  README.md file.
-		 - https://stackedit.io
+		 - https://stackedit.io.
+- **W3schools**/:
+	- 
 
 ## Launch
  
@@ -60,5 +62,5 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI3NzE4NzhdfQ==
+eyJoaXN0b3J5IjpbLTE1MjY2Mzk5ODJdfQ==
 -->
