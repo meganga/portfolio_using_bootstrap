@@ -64,7 +64,7 @@ The project is created with:
 - **Android Browser & WebView**
 	- Supported
 - **Microsoft Edge**
-	Supported
+	- Supported
 
 *Source:https://getbootstrap.com/docs/4.0/getting-started/browsers-devices/#supported-browsers*
 
@@ -85,6 +85,6 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODIzMjMwOCwtMjEyMTA5MDE0MSwyMD
+eyJoaXN0b3J5IjpbLTk5NTczNDc4MywtMjEyMTA5MDE0MSwyMD
 c2NTQ4MzQsMTM3ODk5ODcwMywxMDY3MTUxNzE2XX0=
 -->
