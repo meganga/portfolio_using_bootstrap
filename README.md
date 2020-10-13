@@ -3,7 +3,7 @@
 
 #  Creating a Portfolio using Bootstrap.
 
-I created this bootstrap as a learning practice for Bootstrap.
+I created this project as a learning practice for Bootstrap.
 
 
 ## Technologies Used:
@@ -11,6 +11,7 @@ The project is created with:
 
  - **HTML 5**
  - **CSS 4**
+ - **Bootstrap-4**
 
 ## Applications/resources used :
 
@@ -19,9 +20,9 @@ The project is created with:
 		  
  - Pakages used:	 
 	 -  **Prettier**: To take care of the indentation and maintaining the structure of the code.
-	 - **open in brows**e: To open file in a browse more easily.
+	 - **open in browser**: To open file in a browse more easily.
  - **Stackedit**:
-	 - To write and maintain the README.md file.
+	 - To write and maintain  README.md file.
 		 - https://stackedit.io
 
 ## Launch
@@ -46,5 +47,5 @@ The project is created with:
 - **Spotify's Sign-up form**:
 	- https://www.spotify.com/ca-en/signup/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjM4MjE2Ml19
+eyJoaXN0b3J5IjpbLTE2MzcwNzM3Ml19
 -->
