@@ -53,6 +53,8 @@ The project is created with:
 - **Opera**
 	- Supported
 #### Mobile Devices:
+*Generally speaking, Bootstrap supports the latest versions of each major platform’s default browsers. Note that proxy browsers (such as Opera Mini, Opera Mobile’s Turbo mode, UC Browser Mini, Amazon Silk) are not supported.*
+
 
 
 
@@ -70,6 +72,6 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NzM3MDQ0LDIwNzY1NDgzNCwxMzc4OT
-k4NzAzLDEwNjcxNTE3MTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMjEwOTAxNDEsMjA3NjU0ODM0LDEzNz
+g5OTg3MDMsMTA2NzE1MTcxNl19
 -->
