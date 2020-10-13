@@ -47,12 +47,13 @@ The project is created with:
 
 
 ### Sources
-This project 
+This project was given as a homework exercise in the coding boot-camp I attended
+
 
 ### Github Pages
 
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY4NDc1NDhdfQ==
+eyJoaXN0b3J5IjpbMzk3MDI2MTE3XX0=
 -->
