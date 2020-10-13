@@ -40,9 +40,9 @@ The project is created with:
 
 ## Launch
  
-
+#### Desktop:
  - **Edge** 
-	 - Jul 2015 release above.
+	 - Not supported.(As of 
  - **Firefox** 
 	 - Mar 2014 release and above.
  - **Chrome** 
@@ -67,5 +67,6 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODk5ODcwMywxMDY3MTUxNzE2XX0=
+eyJoaXN0b3J5IjpbLTIwOTE0MTQ2MCwxMzc4OTk4NzAzLDEwNj
+cxNTE3MTZdfQ==
 -->
