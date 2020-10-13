@@ -8,7 +8,7 @@ I created this project as a learning practice for Bootstrap.
 ## Table of Contents
 
  - [Technologies](#technologies-used)
- - [Resources](#applications/resources-used)
+ - [Resources](#Applications/resources-used)
  - [Launch](#launch)
  - [Sources](#sources)
  - [Status](#github-pages)
