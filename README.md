@@ -5,6 +5,10 @@
 
 I created this project as a learning practice for Bootstrap.
 
+## Table of Contents
+
+ - Technologies
+ - 
 
 ## Technologies Used:
 The project is created with:
@@ -45,5 +49,5 @@ The project is created with:
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY1NzY2NjddfQ==
+eyJoaXN0b3J5IjpbLTcxOTMyMzMxMl19
 -->
