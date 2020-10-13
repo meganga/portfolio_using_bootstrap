@@ -49,7 +49,10 @@ The project is created with:
 ### Sources
 This project was given as a homework exercise in the coding boot-camp I attended:
 https://www.freecodingbootcamp.org/.
-
+ 
+ This project was possible because of the coaching I received from the boot-camp and  the courses I watched on the "f:
+ https://frontendmasters.com/.
+ 
 
 
 ### Github Pages
@@ -57,5 +60,5 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NzYxMjkzXX0=
+eyJoaXN0b3J5IjpbLTkyNTQ2MTgwNl19
 -->
