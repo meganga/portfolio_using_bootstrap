@@ -41,7 +41,7 @@ The project is created with:
 ## Launch
  
 #### Desktop:
--Latest versions of most desktop browsers are supported.(As of Oct 2020)
+-Latest versions of most desktop browsers are supported.
  - **Edge** 
 	 - IE10+(IE9 and below are not supported)
  - **Firefox** 
@@ -85,6 +85,6 @@ https://www.freecodingbootcamp.org/.
  - **Access the page here**:
 	 - https://meganga.github.io/portfolio_using_bootstrap/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDE5Njg1MCwtMjEyMTA5MDE0MSwyMD
-c2NTQ4MzQsMTM3ODk5ODcwMywxMDY3MTUxNzE2XX0=
+eyJoaXN0b3J5IjpbMjE4MTExMTEyLC0yMTIxMDkwMTQxLDIwNz
+Y1NDgzNCwxMzc4OTk4NzAzLDEwNjcxNTE3MTZdfQ==
 -->
