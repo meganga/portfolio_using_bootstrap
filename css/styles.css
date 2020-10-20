@@ -32,3 +32,20 @@ body {
   color: rgb(0, 0, 0);
   text-shadow: 1px 1px 1px white;
 }
+
+/* project.html styling */
+
+.project_header {
+  background-color: rgba(0, 0, 0, 0.849);
+  color: white;
+}
+
+.project_header h1 {
+  text-shadow: 1px 1px 9px rgb(189, 107, 41);
+  font-weight: 600;
+}
+
+.project_header p {
+  text-shadow: 1px 1px 5px rgb(0, 61, 131);
+  font-size: 22px;
+}
