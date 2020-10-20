@@ -49,3 +49,14 @@ body {
   text-shadow: 1px 1px 5px rgb(0, 61, 131);
   font-size: 22px;
 }
+/* Contact.html styling */
+
+#contact-form {
+  background-image: url("/img/handsbackground.jpg");
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
