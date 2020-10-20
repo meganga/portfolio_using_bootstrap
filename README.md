@@ -67,20 +67,25 @@ _Bootstrap supports the latest versions of each major platform’s default brows
 - **Microsoft Edge**
   - Supported
 
-_Source:https://getbootstrap.com/docs/4.0/getting-started/browsers-devices/#supported-browsers_
+Source:
+
+- https://getbootstrap.com/docs/4.0/getting-started/browsers-devices/#supported-browsers_
 
 ### Sources
 
 This project was given as a homework exercise in the coding boot-camp I attended:
-https://www.freecodingbootcamp.org/.
+
+- https://www.freecodingbootcamp.org/.
 
 This project was possible because of the coaching I received from the boot-camp and the courses I watched on the "Front-end Masters":
-https://frontendmasters.com/.
+
+- https://frontendmasters.com/.
 
 ### Github Pages
 
-- **Access the page here**: - https://meganga.github.io/portfolio_using_bootstrap/
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTczNDc4MywtMjEyMTA5MDE0MSwyMD
-c2NTQ4MzQsMTM3ODk5ODcwMywxMDY3MTUxNzE2XX0=
--->
+- **Access the page here**:
+  - https://meganga.github.io/portfolio_using_bootstrap/
+  <!--stackedit_data:
+  eyJoaXN0b3J5IjpbLTk5NTczNDc4MywtMjEyMTA5MDE0MSwyMD
+  c2NTQ4MzQsMTM3ODk5ODcwMywxMDY3MTUxNzE2XX0=
+  -->
