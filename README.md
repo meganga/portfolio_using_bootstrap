@@ -1,6 +1,6 @@
 # Creating a Portfolio using Bootstrap.
 
-I created this project as a learning practice for Bootstrap.
+I created this project as a learning project for Bootstrap.
 
 ## Table of Contents
 
